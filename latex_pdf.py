@@ -1,8 +1,6 @@
 import os
 import sys
 import subprocess
-import tempfile
-import shutil
 from machine import *
 
 class pdfCreator():
